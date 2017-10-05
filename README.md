@@ -28,7 +28,7 @@ npm start
 
 It runs in your port 3400. Protect yourself !
 
-##Documentation
+### Documentation
 
 Load swagger.json on [Swagger](https://editor.swagger.io/).
 
