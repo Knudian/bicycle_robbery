@@ -43,6 +43,7 @@ Load swagger.json on [Swagger](https://editor.swagger.io/).
 
 This project is not licensed.
 
+
 ## Acknowledgments
 
 * Thanks to [Loic Guillois](http://fitlab.fr) for the architecture lecture.
