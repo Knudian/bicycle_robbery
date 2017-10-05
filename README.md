@@ -27,6 +27,10 @@ npm install
 
 It runs in your port 3400. Protect yourself !
 
+##Documentation
+
+Load swagger.json on [Swagger](https://editor.swagger.io/).
+
 ## Versioning
 
 We use [GitHub](http://github.com/) for versioning. 
