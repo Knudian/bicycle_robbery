@@ -1,5 +1,5 @@
 {
-  "name": "meteoAlert",
+  "name": "bicycle_robbery",
   "version": "0.0.1",
   "dependencies": {
     "express": "^4.16.1",
