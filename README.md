@@ -19,15 +19,13 @@ To deploy the project, you'll need:
 
 The project is part of [Bicycle](https://github.com/Knudian/bicycle/).
 
-This project use [Prev-Air](http://www2.prevair.org/) API.
-
 ### Installing
 
 ```shell
 npm install
 ```
 
-It runs in your port 3200. Protect yourself !
+It runs in your port 3400. Protect yourself !
 
 ## Versioning
 
